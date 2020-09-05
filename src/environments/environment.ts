@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  ENDPOINT: 'http://localhost:3000'
+  ENDPOINT: 'https://git.heroku.com/backendcode1.git'
 };
 
 /*
